@@ -2,7 +2,6 @@
 
 import urllib
 import urllib2
-import ftplib
 import sys
 
 M = 'admin'
