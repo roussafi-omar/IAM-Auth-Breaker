@@ -20,4 +20,4 @@ Python2.x / Python3.x
 
 - cd IAM-Auth-Breaker
 
-- sudo IAM-Auth-Breaker.py
+- sudo python IAM-Auth-Breaker.py
