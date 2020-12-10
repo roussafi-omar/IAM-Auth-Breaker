@@ -3,7 +3,7 @@ IAM technicolor and S@gem Authentication (User:Pass) Breaking
 
 [ Languages: English ]
 
-IAM-Auth-Breaker is a Python Simple Script based on urllib and requesting to get the username and password of technicolor v1/v2/v3 and sagem routers, by finding vulnerabilities or brute forcing method.
+IAM-Auth-Breaker is a Python Simple Script based on urllib and requesting to get the username and password of technicolor v1/v2/v3 and sagem routers, by finding vulnerabilities or brute forcing method,woking with Windows,Mac OS and linux
 
 ## Preview
 
